@@ -8,3 +8,11 @@ html, body {
     background: #999;
     font-size: 32px;
 }
+.main{
+    background: lightgreen;
+    padding: 50px 100px;
+    font-size: 32px;
+    color: #fff;
+    text-align: center;
+
+}
